@@ -27,3 +27,13 @@ After successfully building your project, you can run your CGV program by clicki
 If your program produces graphical output, a new window or graphics window should appear, displaying the results of your CG program.
 
 Always remember to save your project and source files regularly.
+
+# Screenshots
+
+<img width="600" alt="Screenshot 2023-09-07 161221" src="https://github.com/iamathar7/CGV-Transformer/assets/144320947/d2f8e18a-847b-4174-a424-f66dc4ac2798">
+
+<img width="600" alt="Screenshot 2023-09-07 161247" src="https://github.com/iamathar7/CGV-Transformer/assets/144320947/ac4d4dc0-67d4-49e6-bc63-226d62bc590a">
+
+<img width="600" alt="Screenshot 2023-09-07 161308" src="https://github.com/iamathar7/CGV-Transformer/assets/144320947/10fcb17a-34f4-4fc5-b7f8-0229adccac21">
+
+
